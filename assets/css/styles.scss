@@ -14,7 +14,7 @@ $link-active:         #002d72;
 $link-hover:          #7eb8dd;
 
 $header-height:        80px;
-$header-height-mobile: 95px;
+$header-height-mobile: 65px;
 
 // Fonts
 $serif:               "Merriweather", "Georgia", "Times New Roman", serif;
@@ -104,6 +104,7 @@ header {
     color: $white;
 
     position: fixed;
+    height: $header-height;
     width: 100%;
 
     h1 {
@@ -126,22 +127,13 @@ header {
 aside {
   @include span-columns(3.25);
   margin-top: $header-height;
- }
+}
 
 article {
   @include shift(0.25);
   @include span-columns(8);
   margin-bottom: 20px;
   margin-top: $header-height;
-  overflow: hidden; // accomdate long link text on mobile devices
-}
-
-@media screen and (min-width: 600px) {
-
-  .header_menu {
-    float: right;
-  }
-
 }
 
 @media screen and (max-width: 600px) {

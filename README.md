@@ -29,7 +29,7 @@ bundle install
 And run the site with Jekyll:
 
 ```
-bundle exec jekyll serve --watch
+bundle exec jekyll serve --watch --baseurl ''
 ```
 
 If all goes well, visit the site at `http://localhost:4000`.

@@ -123,6 +123,11 @@ header {
     }
 }
 
+aside {
+  @include span-columns(3.25);
+  margin-top: $header-height;
+ }
+
 article {
   @include shift(0.25);
   @include span-columns(8);

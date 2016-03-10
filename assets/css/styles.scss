@@ -14,7 +14,7 @@ $link-active:         #002d72;
 $link-hover:          #7eb8dd;
 
 $header-height:        80px;
-$header-height-mobile: 65px;
+$header-height-mobile: 95px;
 
 // Fonts
 $serif:               "Merriweather", "Georgia", "Times New Roman", serif;
@@ -134,6 +134,15 @@ article {
   @include span-columns(8);
   margin-bottom: 20px;
   margin-top: $header-height;
+  overflow: hidden; // accomodate long link text on mobile devices
+}
+
+@media screen and (min-width: 600px) {
+
+  .header_menu {
+    float: right;
+  }
+
 }
 
 @media screen and (max-width: 600px) {

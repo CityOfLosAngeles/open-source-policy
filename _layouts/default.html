@@ -43,9 +43,9 @@
 <div class="container">
   <div>
     <header role="banner">
-       <div style="float:right;">
-         <a href="https://github.com/{{ site.org_name }}/{{ site.repo_name }}/issues/" style="color: white;" class="button">Discuss</a> | 
-         <a href="https://github.com/{{ site.org_name }}/{{ site.repo_name }}/edit/{{ site.branch }}/{{ page.path }}" class="button" style="color: white;">Edit</a> | 
+       <div class="header_menu">
+         <a href="https://github.com/{{ site.org_name }}/{{ site.repo_name }}/issues/" style="color: white;" class="button">Discuss</a> |
+         <a href="https://github.com/{{ site.org_name }}/{{ site.repo_name }}/edit/{{ site.branch }}/{{ page.path }}" class="button" style="color: white;">Edit</a> |
          <a href="{{ site.baseurl }}/SourceCodePolicy.pdf" class="button" style="color: white;">View PDF</a>
        </div>
       <h1>
@@ -53,7 +53,7 @@
       </h1>
     </header>
   </div>
- 
+
   <div class="wrap content">
     {% include sidebar.html %}
 

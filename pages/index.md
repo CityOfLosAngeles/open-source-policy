@@ -67,6 +67,6 @@ You may provide feedback in one of three ways. We ask that you do not submit the
 
 <li id="fn1"><sup>1</sup> Fact Sheet: Announcing New U.S. Open Government Commitments on the Third Anniversary of the Open Government Partnership, THE WHITE HOUSE (September 24, 2014), available at: <a href="https://www.whitehouse.gov/the-press-office/2014/09/24/fact-sheet-announcing-new-us-open-government-commitments-third-anniversa">https://www.whitehouse.gov/the-press-office/2014/09/24/fact-sheet-announcing-new-us-open-government-commitments-third-anniversa</a><a href="#fnr1">&#8617;</a></li>
 <li id="fn2"><sup>2</sup> Memorandum for Chief Information Officers and Senior Procurement Executives on Technology Neutrality, Vivek Kundra, Daniel I. Gordon, Victoria A. Espinel (January 7, 2011), available at: <a href="https://www.whitehouse.gov/sites/default/files/omb/assets/egov_docs/memotociostechnologyneutrality.pdf">https://www.whitehouse.gov/sites/default/files/omb/assets/egov_docs/memotociostechnologyneutrality.pdf</a><a href="#fnr2">&#8617;</a></li>
-<li id="fn3"><sup>3</sup> See “Exceptions” section in the main body of this policy.<a href="#fnr3">&#8617;</a></li>
+<li id="fn3"><sup>3</sup> See “Exceptions” in the Implementation section in the main body of this policy.<a href="#fnr3">&#8617;</a></li>
 
 </ul>

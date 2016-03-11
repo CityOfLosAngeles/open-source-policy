@@ -59,7 +59,7 @@ You may provide feedback in one of three ways. We ask that you do not submit the
 
 2. Direct changes and line edits to the content are welcome through ["pull requests"](https://help.github.com/articles/creating-a-pull-request) by clicking ["Edit this page"](https://github.com/whitehouse/source-code-policy/edit/gh-pages/pages/index.md). You do not need to install any software to suggest a change. You can use GitHub's in-browser editor to edit files and submit a pull request for your changes to be merged into the document. Directions on how to submit a pull request can be found [here](https://help.github.com/articles/creating-a-pull-request). Pull requests that have already been submitted for the proposed guidance can be found [here](https://github.com/whitehouse/source-code-policy/pulls).
 
-3. We are also accepting content suggestions or proposed revisions through emails sent to the OMB Office of the Federal Chief Information Officer at [sourcecode@omb.eop.gov](mailto:sourcecode@omb.eop.gov). Please note that **all** comments received will be posted publicly [here](https://github.com/whitehouse/source-code-policy/issues/new).
+3. We are also accepting content suggestions or proposed revisions through emails sent to the OMB Office of the Federal Chief Information Officer at [sourcecode@omb.eop.gov](mailto:sourcecode@omb.eop.gov). Please note that **all** comments received will be posted publicly [here](https://github.com/whitehouse/source-code-policy/issues/).
 
 ### Footnotes
 

@@ -106,6 +106,7 @@ header {
     position: fixed;
     height: $header-height;
     width: 100%;
+    z-index: 1;
 
     h1 {
         margin: 0;

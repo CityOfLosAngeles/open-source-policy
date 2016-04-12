@@ -49,7 +49,7 @@ Considerations regarding releasing custom code as Open Source Software include:
 
 Thank you for taking the time to participate in the development of this Federal policy. We look forward to receiving your comments and working together to solidify our commitment to efficiency and openness in Government.
 
-The proposed guidance is now open for public comment on this page. ~~The public comment period will last 30 days, closing on April 11, 2016.~~ The public comment period has been extended by 7 days. The new deadline for public feedback is 11:59pm EST on April 18, 2016. Following the public comment period, feedback received will be analyzed to help inform the development of any final policy.
+The proposed guidance is now open for public comment on this page. ~~The public comment period will last 30 days, closing on April 11, 2016.~~ The public comment period has been extended by 7 days. The new deadline for public feedback is 11:59pm EDT on April 18, 2016. Following the public comment period, feedback received will be analyzed to help inform the development of any final policy.
 
 ## Instructions for Public Comment
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Federal Source Code Policy | Appendix A - Definitions
-permalink: /Appendixa/
+permalink: /AppendixA/
 description: "Appendix A: Definitions"
 ---
 

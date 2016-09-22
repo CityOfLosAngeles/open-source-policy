@@ -18,7 +18,7 @@ All comments, messages, pull requests, and other submissions received through of
 
 This site uses [Jekyll](http://jekyllrb.com), [Sass](http://sass-lang.com), [Bourbon](http://bourbon.io), [Neat](http://neat.bourbon.io), and requires **Ruby 2.x**.
 
-Install dependencies with Bundler:
+Install dependencies with [Bundler](http://bundler.io/):
 
 ```
 bundle install

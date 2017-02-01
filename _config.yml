@@ -20,38 +20,22 @@ exclude:
 - LICENSE.md
 
 # Site metadata
-name: "Federal Source Code Policy"
+name: "City of Los Angeles Open Source  Code Policy"
 description: "Achieving Efficiency, Transparency, and Innovation through Reusable and Open Source Software"
-baseurl: https://sourcecode.cio.gov
+baseurl: https://sourcecode.lacity.org
 # Uncomment the following line for localhost development at http://127.0.0.1:4000/software/
 # baseurl: /software
 
 # GitHub information
-org_name: whitehouse
-repo_name: source-code-policy
-branch: gh-pages
+org_name: datala
+repo_name: open-source-policy 
+branch: master
 
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
 - text: Introduction
   url: /
-- text: 1 - Objectives
-  url: /Objectives/
-- text: 2 - Scope and Applicability
-  url: /Scope/
-- text: 3 - Three-Step Software Solutions Analysis
-  url: /Three-Step-Software-Solutions-Analysis/
-- text: 4 - Government-Wide Code Reuse
-  url: /Reuse/
-- text: 5 - Open Source Software
-  url: /OSS/
-- text: 6 - Exceptions to Government Code Reuse
-  url: /Exceptions/
-- text: 7 - Implementation
-  url: /Implementation
-- text: Appendix A - Definitions
-  url: /AppendixA/
  #- text: Introduction
 #  url: /introduction/ 
 

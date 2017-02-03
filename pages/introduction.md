@@ -7,11 +7,7 @@ redirect_from:
   - /AppendixB/
 ---
 
-## M-16-21<br/>MEMORANDUM FOR THE HEADS OF DEPARTMENTS AND AGENCIES
-<h3> FROM: <br/>Tony Scott<br/>United States Chief Information Officer<br/><br/>Anne E. Rung<br/>United States Chief Acquisition Officer</h3>
-<h3> SUBJECT: <br/>Federal Source Code Policy: Achieving Efficiency, Transparency, and Innovation through Reusable and Open Source Software</h3>
-
-<br/>
+The City of Los Angeles`
 The U.S. Government is committed to improving the way Federal agencies buy, build, and deliver information technology (IT) and software solutions to better support cost efficiency, mission effectiveness, and the consumer experience with Government programs. Each year, the Federal Government spends more than $6 billion on software through more than 42,000 transactions.<sup id="fnr1"><a href="#fn1">1</a></sup>  A significant proportion of software used by the Government is comprised of either preexisting Federal solutions or commercial solutions. These solutions include proprietary, open source, and mixed source<sup id="fnr2"><a href="#fn2">2</a></sup> code and often do not require additional custom code development.
 
 When Federal agencies are unable to identify an existing Federal or commercial software solution that satisfies their specific needs, they may choose to develop a custom software solution on their own or pay for its development. When agencies procure custom-developed source code, however, they do not necessarily make their new code (source code or code) broadly available for Federal Government-wide reuse. Even when agencies are in a position to make their source code available on a Government-wide basis, they do not make such code available to other agencies in a consistent manner. In some cases, agencies may even have difficulty establishing that the software was produced in the performance of a Federal Government contract. These challenges may result in duplicative acquisitions for substantially similar code and an inefficient use of taxpayer dollars.

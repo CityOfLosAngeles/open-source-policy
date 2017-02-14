@@ -13,7 +13,7 @@ By open sourcing our code and analysis, websites and content, we make it possibl
 The City itself uses a whole host of open source projects, from Drupal to Open Street Map. Open source has many [advantages for government bodies](http://www.govtech.com/opinion/6-Benefits-of-Using-Open-Source-Software-in-Government.html). 
 
 ## Example Projects 
-### City Specific 
+### City 
 * [DOT Planner](https://github.com/datala/dot-planner)- ITA and DOT collaborated on a planner 
 * [Mayor's Dashboard](https://github.com/datala/bradley-tower)
 
@@ -23,9 +23,17 @@ The City itself uses a whole host of open source projects, from Drupal to Open S
 * [CA Department of Health and Human Services](https://github.com/chhsdata)
 
 
-
 ## Engaging The Community 
-Consider making a presentation at a local meetup about your open source code. 
+Consider making a presentation at a local meetup about your open source code. This will drive community engagement with your code. We've found these groups incredibly responsive to having members from the City speak and serve as an excellent recruiting tool. 
+
+Some meetups: 
+
+* Hack for LA 
+* LA Data Science Meetup 
+* LA Python Meetup
+* [LA PHP Meetup](https://www.meetup.com/laphpdev/)
+* [JS.LA](http://js.la/)
+* [Hacks/Hackers]()
 
 ## Licensing
 The City does not mandate publishing under a specific license. We support using Apache, GPL or MIT licenses for software. For non-software content you which to open-source, please use a [cc-by](https://choosealicense.com/non-software/) license. Please check [Choose a License](https://choosealicense.com/) for more details. 

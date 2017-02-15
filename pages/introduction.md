@@ -28,7 +28,7 @@ Consider making a presentation at a local meetup about your open source code. Th
 
 Some meetups: 
 
-* Hack for LA 
+* [Hack for LA](http://hackforla.org) 
 * LA Data Science Meetup 
 * LA Python Meetup
 * [LA PHP Meetup](https://www.meetup.com/laphpdev/)

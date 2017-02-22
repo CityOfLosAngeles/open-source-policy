@@ -40,3 +40,8 @@ The City does not mandate publishing under a specific license. We support using 
 ## Logistics 
 ### Github
 The City supports a shared [Github account](https://github.com/datala) under the heading organization "DataLA". It is collectively adminsitrated by its users. We recommend that you publish code and use repositories under the organization, rather than fracturing it by using personal accounts. Contact [Hunter Owens](mailto://hunter.owens@lacity.org) or [Maryam Abbassi](mailto://maryam.abbassi@lacity.org) to get started. 
+
+Additionally, a department may wish to create an independent organization instead of publishing on the main DataLA page. If so, please make sure to comply with the policies laid out in [the Reuse Section](./reuse.html). However, we encourage using a shared organization with many different teams to controll access and push rights. 
+
+### Checklist
+Before open-sourcing a project, we recommend completing the City's open source checklist. TKTK 

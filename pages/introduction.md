@@ -4,7 +4,8 @@ title: City of Los Angeles Open Source Policy | Introduction
 permalink: /
 description: 
 ---
-*DRAFT* 
+*DRAFT*
+
 The City of Los Angeles has a vested interst in pursuing open source code development and related policy. This policy recommends licensing, provides contact information, and guidance for said policy. 
 
 ## Why Open Source 
@@ -16,7 +17,7 @@ The City itself uses a host of open source projects from Drupal to Open Street M
 ### City 
 * [DOT Planner](https://github.com/datala/dot-planner)- ITA and DOT collaborated on a planning tool for Active Transporatation Projects that has since been adopted by the Southern California Association of Governments as a standard. 
 * [Mayor's Dashboard](https://github.com/datala/bradley-tower)
-* [Department of Cultural Affairs Social Media Policy](https://github.com/dcadigital))
+* [Department of Cultural Affairs Social Media Policy](https://github.com/dcadigital)
 
 ### Other Governments
 * [Food Inspection Analysis](https://github.com/Chicago/food-inspections-evaluation)
@@ -45,4 +46,4 @@ The City supports a shared [Github account](https://github.com/datala) under the
 Additionally, a department may wish to create an independent organization instead of publishing on the main DataLA page. If so, please make sure to comply with the policies laid out in [the Reuse Section](./reuse.html). However, we encourage using a shared organization with many different teams to controll access and push rights. 
 
 ### Checklist
-Before open-sourcing a project, we recommend completing the City's open source checklist. TKTK 
+Before open-sourcing a project, we recommend completing the City's open source [checklist](./checklist.md).

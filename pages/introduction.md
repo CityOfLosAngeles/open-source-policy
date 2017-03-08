@@ -4,7 +4,7 @@ title: City of Los Angeles Open Source Policy | Introduction
 permalink: /
 description: 
 ---
-
+*DRAFT* 
 The City of Los Angeles has a vested interst in pursuing open source code development and related policy. This policy recommends licensing, provides contact information, and guidance for said policy. 
 
 ## Why Open Source 

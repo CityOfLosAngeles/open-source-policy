@@ -1,14 +1,12 @@
 ---
 layout: page
-title: Federal Source Code Policy | Scope and Applicability
+title: City of Los Angeles Open Source Policy | Scope and Applicability
 permalink: /Scope/
 description: 
 ---
 
-## 2. Scope and Applicability
+## 2. Scope
 
-The requirements outlined in this policy apply to source code that is custom-developed for the Federal Government, subject to the limited exceptions outlined in Section 6 of this document. Source code developed for National Security Systems (NSS), as defined in 40 U.S.C. § 11103, is exempt from the requirements of this policy. For NSS, agencies shall follow applicable statutes, Executive Orders, directives, and internal agency policies.
+The requirements outlined in this policy apply to source code that is custom-developed for the City of Los Angeles, subject to the exceptions below.
 
-The policies in this document do not apply retroactively (<em>i.e.</em>, they do not require that existing custom-developed code be retroactively made available for Government-wide reuse or as OSS). However, making such code available for Government-wide reuse or as OSS, to the extent practicable, is strongly encouraged. 
-
-The agencies’ Chief Information Officers (CIO), Chief Acquisition Officers (CAO), and other key stakeholders should promptly begin working together to implement this policy. Agencies are expected to issue internal policies, as necessary, to support these efforts and should expect their progress to be evaluated in accordance with accountability mechanisms described in Section 7.
+The Department of Systems should evaluate all custom code in the Department for ability to open source. Code Quality should not be used as a metric to avoid open source, with exceptions given in the `Checklist`. 

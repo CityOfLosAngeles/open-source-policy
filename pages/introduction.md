@@ -6,12 +6,29 @@ description:
 ---
 *DRAFT*
 
-The City of Los Angeles has a vested interst in pursuing open source code development and related policy. This policy recommends licensing, provides contact information, and guidance for said policy. 
+The City of Los Angeles has a vested interest in pursuing open source code development and related policy. This policy recommends licensing, provides contact information, and guidance for said policy. 
 
 ## Why Open Source 
+
+Releasing open source software, websites, and content promises many benefits for the City of Los Angeles, including reducing duplicative work, increasing internal efficiency, improving recruiting, bolstering community engagement, and demonstrating leadership among other cities. 
+
+One of the principal benefits to municipalities of releasing open source software is in aligning different city departments. Because there may be more than one department interested in creating software with a particular function (e.g., website templates, data standards, style guides), open sourcing is an ideal way to ensure multiple users can collaborate on or adopt one another's work without having to create the same thing twice. When multiple City stakeholders are collaborating on a software project, open sourcing decreases development time as users are able to suggest changes continuously.  
+
+Reduction of duplicated work
+Internal collaboration
+CPRA
+
+Recruiting
+Fringe Benefits
+
+Leadership among other cities
+
+Community engagement
+Trust in Government
+
 By open sourcing our code and analysis, websites, and content, we make it possible for residents and other cities to adapt, reuse, and contribute to the City. 
 
-The City itself uses a host of open source projects from Drupal to Open Street Map. Open source has many [advantages for government bodies](http://www.govtech.com/opinion/6-Benefits-of-Using-Open-Source-Software-in-Government.html). 
+The City itself uses a host of open source projects from Drupal to OpenStreetMap. Open source has many [advantages for government bodies](http://www.govtech.com/opinion/6-Benefits-of-Using-Open-Source-Software-in-Government.html). 
 
 ## Example Projects 
 ### City 

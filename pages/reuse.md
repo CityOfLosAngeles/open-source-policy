@@ -1,10 +1,3 @@
----
-layout: page
-title: Federal Source Code Policy | Government-wide Code Reuse
-permalink: /Reuse/
-description: 
----
-
 ## Government-Wide Code Reuse
 
 

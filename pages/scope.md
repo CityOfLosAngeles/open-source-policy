@@ -1,4 +1,4 @@
-## 2. Scope
+## Scope
 
 The requirements outlined in this policy apply to source code that is custom-developed for the City of Los Angeles, subject to the exceptions below.
 

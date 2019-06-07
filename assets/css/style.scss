@@ -1,0 +1,23 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header {
+  display: flex;
+  align-items: center;
+}
+/**
+ * Images
+ */
+img {
+  max-width: 100%;
+  vertical-align: middle;
+}
+
+img.logo {
+  border: 0;
+  box-shadow: none;
+  width: 192px;
+  height: 192px;
+}

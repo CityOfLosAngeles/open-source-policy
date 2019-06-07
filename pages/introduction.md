@@ -60,4 +60,5 @@ For organizing Github, please open a SNOW ticket with the CloudOps team.
 Additionally, a department may wish to create an independent organization instead of publishing on the main CityOfLosAngeles page. If so, please make sure to comply with the policies laid out in [the Reuse Section](./reuse.html). However, we encourage using a shared organization with many different teams to controll access and push rights. 
 
 ### Checklist
-Before open-sourcing a project, we recommend completing the City's open source [checklist](./checklist.md).
+Before open-sourcing a project, we recommend completing the City's open source [checklist](./checklist.md). However, it is an anti-pattern to start projects as closed source, it is considered best practice to be open from the start. 
+

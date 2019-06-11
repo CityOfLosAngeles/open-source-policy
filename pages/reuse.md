@@ -13,4 +13,4 @@ The Department of Cultural Affairs [Wendy Hsu Example]
 
 ### B. Inventory All Custom-Developed Code and Make It Available Government-Wide
 
-Using Github, the city shall publish a code repository of all avaliable projects and publish it on appropriate channels, including presentations at ITPC. 
+Using GitHub, the city shall publish a code repository of all avaliable projects and publish it on appropriate channels, including presentations at ITPC. 

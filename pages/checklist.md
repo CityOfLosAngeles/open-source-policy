@@ -1,7 +1,7 @@
 ## Open Source Checklist 
 
-* [ ] License File included
-* [ ] README is added
-* [ ] Documentation is avaliable, if application 
-* [ ] Contributing.md file exists. 
-* [ ] Check for data, private keys that shouldn't be published. 
+* [ ] Do you have a License file?
+* [ ] Do you have a `README.md`?
+* [ ] Is there documentation for the project?
+* [ ] Is there a `Contributing.md`, or other instructions for new contributors?
+* [ ] Have you checked for data or private keys that shouldn't be published?

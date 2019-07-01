@@ -60,5 +60,27 @@ For organizing Github, please open a SNOW ticket with the CloudOps team.
 Additionally, a department may wish to create an independent organization instead of publishing on the main CityOfLosAngeles page. If so, please make sure to comply with the policies laid out in [the Reuse Section](./reuse.html). However, we encourage using a shared organization with many different teams to controll access and push rights. 
 
 ### Checklist
-Before open-sourcing a project, we recommend completing the City's open source [checklist](./checklist.md). However, it is an anti-pattern to start projects as closed source, it is considered best practice to be open from the start. 
+Before open-sourcing a project, we recommend completing the City's open source [checklist](./checklist.md). However, it is an anti-pattern to start projects as closed source, it is considered best practice to be open from the start. Your first commit can be the items on the checklist! 
+
+### Open Source Teams
+
+The default position of any team that wishes to designate itself an open source team in the City of LA shall be 
+
+1. Use Free and Open Source Software (FOSS), which is software that does not charge users a purchase or licensing fee for modifying or redistributing the source code, in our projects and contribute back to the open source community.
+2. Develop our work in the open.
+3. Publish publicly all source code created or modified by said team, whether developed in-house or by external collaborators.
+
+#### Exceptions to working in the open 
+
+
+The only conditions where code shall not be developed and released in the open are:
+
+* The City does not have the rights to reproduce and release the item.
+
+* The public release of the item is restricted by other law or regulation.
+
+These decisions will be made as needed by the Labs team, which will review the conditions under which code will not be made available publicly. Any further exemptions will be rare, documented publicly, and the result of compelling interest.
+
+If an existing solution cannot be found in the open source community, Labs may consider other options, including creating an open source solution itself. Ultimately, the software that best meets the needs and mission of the City should be used.
+
 

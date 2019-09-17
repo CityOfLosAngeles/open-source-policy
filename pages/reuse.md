@@ -23,7 +23,7 @@ Using GitHub, the city shall publish a code repository of all available projects
 
 ## Maximizing Community Involvement and Reuse
 
-Active involvement from the open source community is integral to the success of open source code. The City of Los Angeles aspires to be an active contributor to FOSS projects that it or its residents utilize.
+Active involvement from the open source community is integral to the success of open source code. The City of Los Angeles aspires to be an active contributor to FOSS projects that it or its residents use.
 
 The City shall not transfer ownership / copyright of code away from the City without explicit authorization. However, employees shall be free to contribute to other open source code on behalf of the City. If an employee is asked to sign a contributing agreement to partipate in a project, they shall contact the relevent City Attorney to sign on behalf of the city, rather than sign as an invididual. 
 

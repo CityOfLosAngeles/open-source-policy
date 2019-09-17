@@ -98,8 +98,8 @@ The only conditions where code shall not be developed and released in the open a
 
 * The public release of the item is restricted by other law or regulation.
 
-These decisions will be made as needed by the Labs team, which will review the conditions under which code will not be made available publicly. Any further exemptions will be rare, documented publicly, and the result of compelling interest.
+These decisions will be made as needed by the relevent team, which will review the conditions under which code will not be made available publicly. Any further exemptions will be rare, documented publicly, and the result of compelling interest.
 
-If an existing solution cannot be found in the open source community, Labs may consider other options, including creating an open source solution itself. Ultimately, the software that best meets the needs and mission of the City should be used.
+If an existing solution cannot be found in the open source community, an open source team may consider other options, including creating an open source solution itself. Ultimately, the software that best meets the needs and mission of the City should be used.
 
 
